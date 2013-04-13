@@ -1,13 +1,14 @@
-Solorized Darcula  
-@author Rick Hanlon II (2013)  
-  
-A theme blending Solorized Dark and Darcula.    
-  
-Supported Editors & IDEs:    
-+Intellij 12
- 
-Credits: 
-  Solorized Dark, Ethan Schoonover: http://ethanschoonover.com/solarized
-  Darcula, Intellij: http://www.jetbrains.com/idea/features/darcula_retina.html
+Solarized Darcula
+=============   
+##Description
+A theme blending Solarized Dark and Darcula.    
 
-Note: Includes Solorized Dark and Darcula for reference. 
+##Supported Editors & IDEs   
+- Intellij 12
+ 
+##Credits  
+- Solarized Dark, Ethan Schoonover: http://ethanschoonover.com/solarized  
+- Darcula, Intellij: http://www.jetbrains.com/idea/features/darcula_retina.html
+
+##Notes 
+- Includes Solarized Dark and Darcula for reference. 
