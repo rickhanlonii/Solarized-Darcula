@@ -3,6 +3,10 @@ Solarized Darcula
 ##Description
 A theme blending Solarized Dark and Darcula.    
 
+##About
+- [Bases](http://web.colorotate.org/#/display?palettes=ahFzfmlkZWFkaWFtb25kLWhyZHIQCxIHUGFsZXR0ZRj-_asEDA)  
+- [Colors](http://web.colorotate.org/#/display?palettes=ahFzfmlkZWFkaWFtb25kLWhyZHIQCxIHUGFsZXR0ZRjbsaAEDA)
+
 ##Supported Editors & IDEs   
 - Intellij 12
 - Sublime Text 2
