@@ -6,6 +6,7 @@ A theme blending Solarized Dark and Darcula.
 ##Supported Editors & IDEs   
 - Intellij 12
 - Sublime Text 2
+- iTerm2
  
 ##Credits  
 - Solarized Dark, Ethan Schoonover: http://ethanschoonover.com/solarized  
