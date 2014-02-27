@@ -1,0 +1,12 @@
+{
+  "name": "solarized-darcula",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your theme",
+  "repository": "https://github.com/atom/solarized-darcula",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
