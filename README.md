@@ -16,7 +16,7 @@ A theme blending Solarized Dark and Darcula.
 ![iTerm2 screenshot](https://raw.github.com/rickhanlonii/Solarized-Darcula/master/screens/iTerm2-mbadolato.png)
 
 ##Supported Editors & IDEs   
-- Intellij 12
+- Intellij 12+
 - Sublime Text 2
 - iTerm2
 - Atom 
